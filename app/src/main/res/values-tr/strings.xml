@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bootcamp</string>
+    <string name="create_naccount">Hesap \nOluştur</string>
+    <string name="name">İsim</string>
+    <string name="email">Eposta</string>
+    <string name="password">Şifre</string>
+    <string name="re_password">Şifre Doğrula</string>
+    <string name="already_have_an_account_sign_in">Zaten bir hesabın mı var? Giriş Yap</string>
+    <string name="kotlin_bootcamp">Kotlin Bootcamp</string>
+    <string name="welcome_back_to_your_app">Uygulamaya Tekrardan Hoşgeldin</string>
+    <string name="all_on_one_you_need">all on-one you need</string>
+    <string name="login">Giriş</string>
+    <string name="signup">Kayıt Ol</string>
+    <string name="welcome_back">Tekrar Hoşgeldin</string>
+    <string name="sing_up_with_google">Google ile giriş yap</string>
+    <string name="sing_up_with_facebook">Facebook ile giriş yap</string>
+    <string name="are_you_new_user_register">Yeni kullanıcı mısın ? Kayıt ol!</string>
+
+</resources>

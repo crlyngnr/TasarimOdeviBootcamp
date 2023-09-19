@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BootCamp</string>
+    <string name="create_naccount">Create \nAccount</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re-Password</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="kotlin_bootcamp">Kotlin Bootcamp</string>
+    <string name="welcome_back_to_your_app">Welcome Back to Your App</string>
+    <string name="all_on_one_you_need">all on-one you need</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sing_up_with_google">Sing up with google</string>
+    <string name="sing_up_with_facebook">Sing up with facebook</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
+
+</resources>
